@@ -4,6 +4,8 @@
 - 💞️ Puedo colaborar tanto en desarrollo web y testing QA
 - 📫 Como contactarme <a href="mailto:andresfabianhoyos@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Andres Hoyos" height="30" width="40" />andresfabianhoyos@gmail.com</a> <a href="https://www.linkedin.com/in/andres-fabian-hoyos-9bb161189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
 
+- Tengo conociemtos en: <p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a>
+
 
 ![Andhoyos GitHub stats](https://github-readme-stats.vercel.app/api?username=andhoyos&theme=dark&show_icons=true)
 
