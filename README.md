@@ -4,6 +4,4 @@
 - 💞️ I’m looking to collaborate on  
 - 📫 Como contactarme andresfabianhyos@gmail.com
 
-![Estadísticas de GitHub de andhoyos](https://github-readme-stats.vercel.app/api?username=andhoyos)](https://github.com/andhoyos/github-readme-stats)
-
-![Estadísticas de GitHub de andhoyos](https://github-readme-stats.vercel.app/api?username=andhoyos&count_private=true)
+![Andhoyos GitHub stats](https://github-readme-stats.vercel.app/api?username=andhoyos&theme=dark&show_icons=true)
