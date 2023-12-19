@@ -12,6 +12,8 @@
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a>
    <a href="https://expressjs.com/es/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ex" width="65" height="65"/> </a>
+</a>
+   <a href="https://www.genexus.com/es/" target="_blank"> <img src="https://www.genexus.com/media/images/genexusbyglobant_large.svg?timestamp=20220921163437" alt="gx" width="65" height="65"/> </a>   
  
 
 
